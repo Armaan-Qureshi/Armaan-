@@ -19,5 +19,5 @@
 - Prepare for internships & entry-level security roles
 
 📫 Connect with me:
-- LinkedIn: <your-linkedin-link>
-- Twitter: <your-twitter-link>
+- LinkedIn: <www.linkedin.com/in/armaan-qureshi>
+- Twitter: <https://x.com/armaan_cybersec?s=21>
